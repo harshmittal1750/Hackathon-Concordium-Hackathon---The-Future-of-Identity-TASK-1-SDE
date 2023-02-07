@@ -1,6 +1,6 @@
 ## Gitcoin
 ## Concordium Hackathon - The Future of Identity
-### Note : This did this task on windows:-
+### Note : I did this task on windows:-
 
 
 #### This documetation is by the team :
@@ -14,7 +14,13 @@ Rust Installation
 
 To install cargo-concordium, download https://developer.concordium.software/en/mainnet/net/installation/downloads-testnet.html#cargo-concordium-testnet copy and paste .exe %HOMEPATH%.cargo\bin, change the name to "cargo-concordium.exe"
 
+Put this file <cargo-concordium.exe>in your 'C:\Users\USERNAME\.cargo\bin' folder
+
 Download and Install Concordium Client: https://developer.concordium.software/en/mainnet/net/installation/downloads-testnet.html#concordium-node-and-client-download-testnet
+
+Put this file <concordium-client.exe>in your 'C:\Users\USERNAME\.cargo\bin' folder
+
+
 
 Download the extension wallet here:
 https://chrome.google.com/webstore/detail/concordium-wallet/mnnkpffndmickbiakofclnpoiajlegmg/related
@@ -34,7 +40,7 @@ Import the keys
 
 <img src="final.png"  alt="final wallet setup in concordium client">
 
-## MY details:
+## My details:
 
 - My legacy mainnet concordium wallet address : '3H9sJKQsDrwopkE7SFjKi69dkAh3thSsZu1Jtk4LQqQK7V2Weo';
 - My testnet concordium wallet address : '3aJXYbpPvbx9fgWfUTLSwWTiYf7PoL72bpHbmfh54MVehs4wmt';
