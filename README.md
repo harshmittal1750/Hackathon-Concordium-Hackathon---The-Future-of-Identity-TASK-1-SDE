@@ -24,10 +24,6 @@ Put this file <concordium-client.exe>in your 'C:\Users\USERNAME\.cargo\bin' fold
 
 Download the extension wallet here:
 https://chrome.google.com/webstore/detail/concordium-wallet/mnnkpffndmickbiakofclnpoiajlegmg/related
-
-When you have created your account and claimed your CCD, you will need to export the keys from your wallet. Save the file on your local machine in the same folder as the rest of the repository. It will have a name like this  <YOUR PUBLIC ADDRESS>.export. You can open it with a text editor and see your signKey and verifyKey in there. 
-<img src="exportPkey.png">
-
 Create Identity
 
 <img src="testing_identity.png" alt="testing identity">
@@ -36,6 +32,11 @@ Get faucet tokens
 
 <img src="faucetBalance.png" alt ="faucet balance">
 
+When you have created your account and claimed your CCD, you will need to export the keys from your wallet. Save the file on your local machine in the same folder as the rest of the repository. It will have a name like this  <YOUR PUBLIC ADDRESS>.export. You can open it with a text editor and see your signKey and verifyKey in there. 
+
+
+
+<img src="exportPkey.png">
 Import the keys
 
 <img src="final.png"  alt="final wallet setup in concordium client">
